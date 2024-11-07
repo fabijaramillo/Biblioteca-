@@ -1,4 +1,4 @@
-# Biblioteca-
+# Biblioteca-web-Backend (Firebase Functions)- Frontend (React)
 BibliotecaUnimayor
 [# TiendaLibrosUnimayor
 
